@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV de Ángel Busquiel González</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reset.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/white.css">
+  <style>
+    :root {
+      --r-heading-color: #17324d;
+      --r-link-color: #0b6e99;
+      --r-heading-text-transform: none;
+      --r-main-font-size: 34px;
+    }
+    .reveal h1 { font-size: 1.9em; }
+    .reveal h2 { font-size: 1.45em; }
+    .reveal ul { display: block; }
+    .reveal li { margin-bottom: 0.45em; }
+  </style>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section
+        data-markdown="slides.md"
+        data-separator="^\r?\n---\r?\n$"
+        data-separator-notes="^Note:">
+      </section>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/plugin/markdown/markdown.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/plugin/notes/notes.js"></script>
+  <script>
+    Reveal.initialize({
+      hash: true,
+      slideNumber: 'c/t',
+      plugins: [RevealMarkdown, RevealNotes]
+    });
+  </script>
+</body>
+</html>
