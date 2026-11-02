@@ -38,12 +38,12 @@ Hice la ESO y SMX en el IES Alcàsser. Ahora curso ASIR en el IES La Sénia y te
 
 Enero–mayo de 2026 · 450 horas
 
-- [Tarea real 1]
-- [Tarea real 2]
-- [Tarea real 3]
+- Reparación, montaje y mantenimiento de equipos
+- Administración de usuarios de Windows
+- Resolución de incidencias
 
 Note:
-Hice 450 horas de prácticas en Vithas, entre enero y mayo de 2026. [Explica aquí qué hacías y qué aprendiste.]
+Hice 450 horas de prácticas en Vithas, entre enero y mayo de 2026. Allí reparé, monté y mantuve equipos, administré usuarios de Windows y resolví incidencias.
 
 ---
 
@@ -55,7 +55,7 @@ Hice 450 horas de prácticas en Vithas, entre enero y mayo de 2026. [Explica aqu
 - Redes locales
 
 Note:
-Estas son las áreas que he trabajado durante mi formación. [Pon un ejemplo concreto de alguna de ellas.]
+Estas son las áreas que he trabajado durante mi formación.
 
 ---
 
@@ -74,7 +74,7 @@ Mi lengua nativa es el castellano, tengo un nivel medio de valenciano y un nivel
 
 Busco un puesto de soporte informático, helpdesk N1, microinformática o sistemas junior.
 
-[tu-correo@ejemplo.com]
+angelbusquielgonzalez@gmail.com
 
 Note:
 Mi objetivo es empezar como técnico de soporte y seguir creciendo hacia sistemas. Gracias por vuestra atención.
