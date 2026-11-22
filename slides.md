@@ -5,20 +5,13 @@ Técnico de soporte informático junior
 Valencia
 
 Note:
-Hola, soy Ángel Busquiel. En esta presentación resumo mi formación, mi experiencia y el tipo de puesto que busco.
+Hola, soy Ángel Busquiel. En esta presentación resumo quién soy, mi formación, mi experiencia y el tipo de puesto que busco.
 
 ---
 
-## Perfil
+## Sobre mí
 
-- Formación en sistemas microinformáticos y redes
-- Estudiante de ASIR
-- Prácticas en empresa en Vithas
-- Orientado a soporte técnico y sistemas
-
-Note:
-Vengo de la rama de informática de FP. Terminé SMX, hice prácticas en una empresa real y ahora sigo formándome con ASIR para crecer hacia sistemas.
-
+Formado en Sistemas Microinformáticos y Redes (2024–2026) y cursando actualmente el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR). Formación práctica en sistemas Windows y Linux, gestión de usuarios y grupos en Active Directory, máquinas virtuales, carpetas compartidas y permisos, y montaje y mantenimiento de equipos y fiel a la automatización de tareas. Busco mi primer puesto en soporte técnico, helpdesk N1 o microinformática.
 ---
 
 ## Formación
@@ -27,8 +20,6 @@ Vengo de la rama de informática de FP. Terminé SMX, hice prácticas en una emp
 - **Sistemas Microinformáticos y Redes**: IES Alcàsser, 2024–2026
 - **ESO**: IES Alcàsser, 2020–2024
 
-Note:
-Hice la ESO y SMX en el IES Alcàsser. Ahora curso ASIR en el IES La Sénia y tengo previsto terminar en 2028.
 
 ---
 
@@ -49,13 +40,27 @@ Hice 450 horas de prácticas en Vithas, entre enero y mayo de 2026, realizando f
 
 ## Habilidades técnicas
 
-- Soporte a usuarios
-- Montaje y mantenimiento de equipos
-- Instalación de sistemas operativos
-- Redes locales
+- Gestión de sistemas operativos y administración de usuarios de Windows y Linux
+- Redes informáticas
+- Hardware y mantenimiento de equipos
+- Virtualización
+- Herramientas ofimáticas
 
 Note:
-Durante mi formación he trabajado sistemas operativos, redes informáticas, hardware y mantenimiento, virtualización y herramientas ofimáticas.
+Estas son las áreas que he trabajado en mi formación y en mis prácticas. En Vithas apliqué sobre todo la administración de usuarios de Windows y el mantenimiento de equipos.
+
+---
+
+## Habilidades blandas
+
+- Atención al usuario
+- Resolución de problemas
+- Trabajo en equipo
+- Comunicación clara
+- Ganas de aprender
+
+Note:
+En soporte técnico es tan importante saber tratar con las personas como resolver el problema. En las prácticas atendía a usuarios y trabajaba con el resto del equipo de informática.
 
 ---
 
