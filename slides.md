@@ -12,6 +12,8 @@ Hola, soy Ángel Busquiel. En esta presentación resumo quién soy, mi formació
 ## Sobre mí
 
 Formado en Sistemas Microinformáticos y Redes (2024–2026) y cursando actualmente el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR). Formación práctica en sistemas Windows y Linux, gestión de usuarios y grupos en Active Directory, máquinas virtuales, carpetas compartidas y permisos, y montaje y mantenimiento de equipos y fiel a la automatización de tareas. Busco mi primer puesto en soporte técnico, helpdesk N1 o microinformática.
+Enero–mayo de 2026 · 450 horas
+
 ---
 
 ## Formación
