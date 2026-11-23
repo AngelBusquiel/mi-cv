@@ -30,6 +30,7 @@ Enero–mayo de 2026 · 450 horas
 **Prácticas de empresa en Vithas (Valencia)**
 
 Enero–mayo de 2026 · 450 horas
+Enero–febrero de 2026 · 150 horas
 
 - Administración de usuarios de Windows
 - Resolución de incidencias
